@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Javier Moreno Romero",
-    "label": "Full-Stack developer with more than 15 years of experience & development content creator",
-    "image": "/me.webp",
+    "label": "Multiplataform application development student",
+    "image": "",
     "email": "javiermr4365@gmail.com",
     "phone": "+34 655735888",
     "url": "https://midu.dev",
-    "summary": "+15 years of experience as a web developer. Currently I am a content creator and development dommunicator. I live in Barcelona, Spain. I have worked in different environments: from accelerating the development of start-ups to leading teams in multinational companies.",
+    "summary": "I am 20 years old and a self-sufficient person who enjoys learning new things every day.",
     "location": {
       "address": "AVDA Reina Mercedes Sevilla",
       "postalCode": "41012",
@@ -17,8 +17,8 @@
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
+        "username": "Javier Moreno",
+        "url": "https://www.linkedin.com/in/javier-moreno-17b0b11b3/"
       },
       {
         "network": "X",
@@ -27,44 +27,32 @@
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "jamoro0013",
+        "url": "https://github.com/jamoro0013"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Web programming communicator",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "Trevian Catering",
+      "position": "Waiter",
+      "url": "https://treviancatering.com/",
+      "startDate": "2022-08-01",
       "endDate": null,
-      "summary": "Most watched development streamer in Spanish on Twitch. +1 million followers across all my social networks. Recognised by Google, Microsoft and GitHub for my impact on the development community.",
+      "summary": "Waiter serving events, in charge of the open bar , van driver...",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "I led a technical convergence between different products and migrated from a monolithic architecture to a more flexible and optimised one. I fostered best practices and performance culture improvements, as well as rapid delivery of value to users.",
+      "name": "La calera Catering",
+      "position": "Waiter",
+      "url": "https://www.dehesalacalera.com/",
+      "startDate": "2022-08-01",
+      "endDate": null,
+      "summary": "Waiter serving events, in charge of the open bar , van driver...",
       "highlights": [
         "Started the company"
-      ]
-    },
-    {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "I developed a geolocated news platform and an API to consume the information. Scaled services to support the load of over hundreds of thousands of requests per day. Cut delivery times and deployments to production by half. Collaborated with Mozilla and Telefónica to develop the first FirefoxOS TV app.",
-      "highlights": [
-        "Started the company"
-      ]
-    }
   ],
   "references": [
     {
@@ -100,13 +88,13 @@
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Software Engineer",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
+    "institution": "Santa Joaquina de Vedruna Sevilla",
+    "url": "https://vedrunasevilla.org/",
+    "area": "Devops",
+    "studyType": "Higer technical degree",
+    "startDate": "2023-10-9",
+    "endDate": "2025-05-21",
+    "score": "8.0",
     "courses": [
       "DB1101 - Basic SQL"
     ]
@@ -213,10 +201,6 @@
     {
       "language": "Spanish",
       "fluency": "Native speaker"
-    },
-    {
-      "language": "English",
-      "fluency": "Advanced"
     }
   ],
   "interests": [{
