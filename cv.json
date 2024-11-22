@@ -1,4 +1,3 @@
-
 {
   "basics": {
     "name": "Javier Moreno Romero",
@@ -8,8 +7,8 @@
     "url": "https://midu.dev",
     "summary": "I am 20 years old and a self-sufficient person who enjoys learning new things every day.",
     "location": {
-      "address": "AVDA Reina Mercedes Sevilla",
-      "postalCode": "41012",
+      "address": "avda reina mercedes",
+      "postalCode": "4012",
       "city": "Sevilla",
       "countryCode": "ES",
       "region": "Spain"
@@ -40,40 +39,38 @@
       "startDate": "2022-08-01",
       "endDate": null,
       "summary": "Waiter serving events, in charge of the open bar , van driver...",
-  
-
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "La calera Catering",
+      "name": "La Calera Catering",
       "position": "Waiter",
       "url": "https://www.dehesalacalera.com/",
       "startDate": "2022-08-01",
       "endDate": null,
-      "summary": "Waiter serving events, in charge of the open bar , van driver...",
+      "summary": "Waiter serving events, in charge of the open bar , van driver....",
       "highlights": [
         "Started the company"
-      ]}
+      ]
+    }
   ],
-
   "references": [
     {
-      "name": "Joaquin Borrego Fernández",
-      "type": "Academic Reference",
-      "url": "https://twitch.tv/midudev",
-      "position": "Teacher at IES Vedruna and Software Developer at Babel.",
+      "name": "Enrique Soto",
+      "type": "Professional Reference",
+      "url": "https://treviancatering.com/",
+      "position": "Owner Trevian Catering.",
       "contact": [
         "Phone: +34611223345",
         "Email: VY5q8@example.com"
       ]
     },
     {
-      "name": "Alejandro Téllez",
+      "name": "Ignacio Lora",
       "type": "Professional Reference",
-      "url": "https://twitch.tv/midudev",
-      "position": "Analyst at NTT DATA.",
+      "url": "https://www.dehesalacalera.com/",
+      "position": "Owner La Calera Catering.",
       "contact": [
         "Phone: +34611223344",
         "Email: Va5q8@example.com"
@@ -96,8 +93,8 @@
     "url": "https://vedrunasevilla.org/",
     "area": "Devops",
     "studyType": "Higer technical degree",
-    "startDate": "2023-10-9",
-    "endDate": "2025-05-21",
+    "startDate": "2023-10-09",
+    "endDate": "2025-05-20",
     "score": "8.0",
     "courses": [
       "DB1101 - Basic SQL"
@@ -125,41 +122,41 @@
   "skills": [
     {
       "name": "HTML",
-      "level": "advanced",
+      "level": "Advanced",
       "keywords": [
         "Web development", "Frontend"
       ]
     },
     {
       "name": "CSS",
-      "level": "advance",
+      "level": "Advanced",
       "keywords": [
         "Web development", "Frontend", "Diseño Responsive"
       ]
     },
     {
       "name": "Java",
-      "level": "advance",
+      "level": "Master",
       "keywords": [
         "Web development", "Frontend", "Backend", "Fullstack"
       ]
     },
     {
-      "name": "Android Studio",
+      "name": "AndroidStudio",
       "level": "Advanced",
       "keywords": [
         "Web development", "Frontend", "CSS Framework", "Diseño Responsive"
       ]
     },
     {
-      "name": "Unity",
+      "name": "XML",
       "level": "Advanced",
       "keywords": [
         "Web development", "Frontend", "Backend", "JavaScript Superset"
       ]
     },
     {
-      "name": "XML",
+      "name": "Unity",
       "level": "Advanced",
       "keywords": [
         "Web development", "Backend", "JavaScript", "Servidor"
@@ -184,6 +181,20 @@
       "level": "Advanced",
       "keywords": [
         "Version control", "Collaboration", "Source code", "Git"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Advanced",
+      "keywords": [
+        "Web development", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "Azure",
+      "level": "Advanced",
+      "keywords": [
+        "Web development", "Frontend", "JavaScript Library", "UI"
       ]
     }
   ],
@@ -212,7 +223,7 @@
       "url": "https://mars.codes"
     },
     {
-      "name": "form Android Studio",
+      "name": "Form Android Studio",
       "isActive": true,
       "description": "Purchase form developed in Android Studio, ready to use",
       "highlights": [
@@ -253,6 +264,15 @@
       ],
       "url": "https://pruebastecnicas.com",
       "github": "https://github.com/midudev/pruebas-tecnicas"
+    },
+    {
+      "name": "miduConf",
+      "description": "Streaming programming conference for the Spanish-speaking community with top talks",
+      "highlights": [
+        "+15k tickets handed over",
+        "+50k live viewers"
+      ],
+      "url": "https://miduconf.com"
     }
   ]
 }
